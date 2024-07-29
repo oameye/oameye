@@ -10,6 +10,4 @@
 
 ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=oameye&layout=compact&theme=github_dark_dimmed&hideText,Gitignore%20File,Properties)
 
-![oameye's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=oameye&theme=github_dark_dimmed&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![oameye's languages](
-https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=oameye&show_icons=true&include_all_commits=true&lang_count=10&layout=compact&theme=github_dark&hide=jupyter%20notebook,Shell,PowerShell,html,netlogo&role=OWNER,ORGANIZATION_MEMBER)
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=oameye&theme=dracula&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&hide_border=true&title_color=539bf5&icon_color=539bf5&text_color=ADBAC7&bg_color=24292F" height="180px" alt="logo"><img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=oameye&show_icons=true&include_all_commits=true&lang_count=10&layout=compact&theme=dracula&hide=jupyter%20notebook,html,Shell,netlogo,PowerShell&role=OWNER,ORGANIZATION_MEMBER&hide_border=true&title_color=539bf5&icon_color=539bf5&text_color=ADBAC7&bg_color=24292F" height="180px" />
