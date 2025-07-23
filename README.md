@@ -8,6 +8,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/oameye/oameye/output/github-contribution-grid-snake.svg">
 </picture>
 
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=oameye&layout=compact&theme=github_dark_dimmed&hideText,Gitignore%20File,Properties)
-
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=oameye&theme=dracula&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&hide_border=true&title_color=539bf5&icon_color=539bf5&text_color=ADBAC7&bg_color=24292F" height="180px" alt="logo"><img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=oameye&show_icons=true&include_all_commits=true&lang_count=10&layout=compact&theme=dracula&hide=jupyter%20notebook,html,Shell,netlogo,PowerShell&role=OWNER,ORGANIZATION_MEMBER&hide_border=true&title_color=539bf5&icon_color=539bf5&text_color=ADBAC7&bg_color=24292F" height="180px" />
+[![](https://raw.githubusercontent.com/oameye/oameye/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/oameye/oameye/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/oameye/oameye/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/oameye/oameye/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/oameye/oameye/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
